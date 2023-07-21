@@ -59,6 +59,8 @@ banner.remove();
 
 // CSS and Media Queries
 
+let style = document.createElement('style');
+
 style.type = 'text/css';
 style.innerHTML = `
 .offer-banner {
