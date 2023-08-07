@@ -1,5 +1,5 @@
 # Assignment-DataVinci-Pvt-Ltd
-It is assignment project from DataVinci-Pvt-Ltd
+It is assignment project from DataVinci-Pvt-Ltd to insert the whole banner in website only using console and banner appears until the time set in the timer
 
 # How to run the code 
 1. copy all code from banner.js.
